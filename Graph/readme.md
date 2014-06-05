@@ -1,4 +1,5 @@
 Todo
 ----
- -[] html file to display graph
- -[] javascript to parse data into graph
+ * display line graphs of bandwidth
+ * javascripts to parse data for graph
+ 
